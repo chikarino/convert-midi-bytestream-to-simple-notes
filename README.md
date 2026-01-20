@@ -17,7 +17,6 @@ This tool converts MIDITONES binary bytestream (stored in C `score[]` arrays) in
 - ✅ Convert MIDI notes to Hz frequencies | 將 MIDI 音符轉換為 Hz 頻率
 - ✅ Frame-based timing (configurable FPS) | 基於幀數的時間（可配置 FPS）
 - ✅ Automatic input file detection | 自動偵測輸入檔案
-- ✅ Bilingual output comments | 雙語輸出註解
 
 ## Requirements | 系統需求
 
